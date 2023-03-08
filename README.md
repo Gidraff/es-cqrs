@@ -1,0 +1,2 @@
+# es-cqrs
+Learning demo
